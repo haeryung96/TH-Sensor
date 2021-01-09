@@ -5,3 +5,6 @@ Temperature &amp; Humidity Sensor
 
 ˚ 측정된 데이터들은 Firebase RealtimeDataBase 에 저장된다. 
 
+˚ 측정된 데이터들은 안드로이드 mpAndroidchart를 사용해 실시간 그래프를 그려준다.
+
+
